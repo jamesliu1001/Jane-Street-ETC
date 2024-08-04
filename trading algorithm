@@ -20,10 +20,6 @@ team_name = "POLIWAG"
 
 # ~~~~~============== MAIN LOOP ==============~~~~~
 
-# You should put your code here! We provide some starter code as an example,
-# but feel free to change/remove/edit/update any of it as you'd like. If you
-# have any questions about the starter code, or what to do next, please ask us!
-
 average_vale_price = []
 average_valbz_price = []
 average_xlf_price = []
